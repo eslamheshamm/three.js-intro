@@ -1,0 +1,19 @@
+{
+  "name": "three.js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eslamheshamm/three.js-intro.git"
+  },
+  "author": "eslamheshamm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eslamheshamm/three.js-intro/issues"
+  },
+  "homepage": "https://github.com/eslamheshamm/three.js-intro#readme"
+}
